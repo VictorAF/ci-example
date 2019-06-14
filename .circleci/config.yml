@@ -13,6 +13,7 @@ jobs:
 
     steps:
       # There are ways to cache things on order to skip the whole time waiting for npm install
+      - checkout
       - run: npm install
 
       # run tests!
