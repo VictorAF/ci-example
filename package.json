@@ -1,0 +1,17 @@
+{
+  "name": "ci-example",
+  "version": "1.0.0",
+  "description": "all about unit tests",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Victor Fernandes",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
