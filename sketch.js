@@ -1,5 +1,5 @@
 function sum(a,b){
-  return a + b + 422;
+  return a + b;
 }
 
 // Hello there
